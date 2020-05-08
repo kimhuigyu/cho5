@@ -60,7 +60,7 @@ void printStack() {
 	printf("]");
 }
 
-void main(void) {
+int main(void) {
 	element item;
 	top = NULL;
 	printf("\n** 연결 스택 연산 **\n");
