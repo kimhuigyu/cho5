@@ -37,7 +37,7 @@ void enQueue(QueueType* Q, element item) {
 	}
 }
 element deQueue(QueueType* Q) {
-	if (isEmpty(Q)) return;
+	if (isEmpty(Q)) return' ';
 	else {
 		Q->front++;
 		return Q->queue[Q->front];
