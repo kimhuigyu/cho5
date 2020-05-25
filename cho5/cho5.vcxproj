@@ -138,13 +138,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ch6-1.cpp" />
-    <ClCompile Include="cho5-1.cpp" />
-    <ClCompile Include="cho5-2.cpp" />
-    <ClCompile Include="cho5-3.cpp" />
-    <ClCompile Include="cho5-4.cpp" />
-    <ClCompile Include="cho6-2.cpp" />
-    <ClCompile Include="cho6-3.cpp" />
+    <ClCompile Include="cho7-1.cpp" />
+    <ClCompile Include="cho7-2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
