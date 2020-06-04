@@ -138,8 +138,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="cho7-1.cpp" />
-    <ClCompile Include="cho7-2.cpp" />
+    <ClCompile Include="cho7-3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
