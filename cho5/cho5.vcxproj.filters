@@ -36,7 +36,7 @@
     <ClCompile Include="test.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="cho8-4.cpp">
+    <ClCompile Include="알고리즘.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
